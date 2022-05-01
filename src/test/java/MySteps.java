@@ -11,7 +11,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import pages.MainPage;
 
 public class MySteps {
-
     WebDriver driver;
     MainPage page;
     private final String URL = "https://www.booking.com/searchresults.en-gb.html";
